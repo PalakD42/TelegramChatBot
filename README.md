@@ -42,7 +42,7 @@ TelegramChatBot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<PalakD42>/TelegramChatBot.git
+git clone https://github.com/PalakD42/TelegramChatBot.git
 cd TelegramChatBot
 ```
 
@@ -176,7 +176,7 @@ This project is licensed under the MIT License.
 
 **Palak Dwivedi**
 
-- GitHub: https://github.com/<PalakD42>
+- GitHub: https://github.com/PalakD42
 - Telegram Bot: https://t.me/ShiviiAI_bot
 
 ---
